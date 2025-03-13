@@ -1,0 +1,5 @@
+train: ../dataset/images/train  # Adjust if needed
+val: ../dataset/images/val 
+
+nc: 1  # Number of classes
+names: ["cracked_screen"]
